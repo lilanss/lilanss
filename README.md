@@ -6,6 +6,12 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
+<p align="center">
+  <a href="https://count.getloli.com" target="_blank">
+    <img alt="Moe Counter!" src="https://count.getloli.com/@:lisisisan?name=%3Alisisisan&theme=random&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+  </a>
+</p>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
