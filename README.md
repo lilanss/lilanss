@@ -29,16 +29,16 @@
 
 ## 💬 Socials
 
-<p align="left">
-  <td>
-      <a href="https://t.me/lisisian">
-        <img align="center" src="./img/telegram.png">
-      </a>
-    </td>
-    <td style="font-size: 24px; vertical-align: top;">
-      @lisisian
-    </td>
-  </td>
+<p align="left" style="font-size: 18px;">
+   <a href="https://t.me/lisisian" style="text-decoration: none; display: inline-block; margin-right: 15px;">
+      <img src="https://img.icons8.com/?size=100&id=98970&format=png&color=000000" alt="Telegram" width="40" height="40" style="vertical-align: middle;">
+      <span style="vertical-align: middle; font-family: Arial, sans-serif; color: #000; font-size: 18px;">@lisisian</span>
+   </a>
+
+   <a href="https://www.instagram.com/your_instagram_username" style="text-decoration: none; display: inline-block;">
+      <img src="https://img.icons8.com/?size=100&id=111250&format=png&color=000000" alt="Instagram" width="40" height="40" style="vertical-align: middle;">
+      <span style="vertical-align: middle; font-family: Arial, sans-serif; color: #000; font-size: 18px;">Instagram</span>
+   </a>
 </p>
 
 
