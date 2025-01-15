@@ -31,13 +31,13 @@
 
 <p align="left" style="font-size: 18px;">
    <a href="https://t.me/lisisian" style="text-decoration: none; display: inline-block; margin-right: 15px;">
-      <img src="https://img.icons8.com/?size=100&id=98970&format=png" alt="Telegram" width="40" height="40" style="vertical-align: middle;">
+      <img src="https://icons8.ru/icon/25n4hOEoY7ss/telegram-app" alt="Telegram" width="40" height="40" style="vertical-align: middle;">
       <span style="vertical-align: middle; font-family: Arial, sans-serif; color: #000; font-size: 18px;">@lisisian</span>
    </a>
 
-   <a href="https://www.instagram.com/your_instagram_username" style="text-decoration: none; display: inline-block;">
-      <img src="https://img.icons8.com/?size=100&id=111250&format=png" alt="Instagram" width="40" height="40" style="vertical-align: middle;">
-      <span style="vertical-align: middle; font-family: Arial, sans-serif; color: #000; font-size: 18px;">Instagram</span>
+   <a href="https://www.instagram.com/lisisian_" style="text-decoration: none; display: inline-block;">
+      <img src="https://icons8.ru/icon/48839/instagram" alt="Instagram" width="40" height="40" style="vertical-align: middle;">
+      <span style="vertical-align: middle; font-family: Arial, sans-serif; color: #000; font-size: 18px;">lisisian_</span>
    </a>
 </p>
 
