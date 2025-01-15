@@ -36,7 +36,7 @@
    </a>
 
    <a href="https://www.instagram.com/lisisian_" style="text-decoration: none; display: inline-block;">
-      <img src="https://icons8.ru/icon/48839/instagram" alt="Instagram" width="40" height="40" style="vertical-align: middle;">
+      <img src="https://icons8.ru/icon/48839/instagram"  width="40" height="40" style="vertical-align: middle;">
       <span style="vertical-align: middle; font-family: Arial, sans-serif; color: #000; font-size: 18px;">lisisian_</span>
    </a>
 </p>
