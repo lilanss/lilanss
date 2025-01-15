@@ -30,18 +30,15 @@
 ## 💬 Socials
 
 <p align="left">
-  <table>
-      <tr>
-      <td>
-        <a href="https://t.me/lisisian">
-          <img align="center" src="./img/telegram.png">
-        </a>
-      </td>
-      <td style="font-size: 24px; vertical-align: top;">
-        @lisisian
-      </td>
-    </tr>
-  </table>
+  <td>
+      <a href="https://t.me/lisisian">
+        <img align="center" src="./img/telegram.png">
+      </a>
+    </td>
+    <td style="font-size: 24px; vertical-align: top;">
+      @lisisian
+    </td>
+  </td>
 </p>
 
 
