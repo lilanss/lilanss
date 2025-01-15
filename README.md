@@ -34,13 +34,14 @@
       <img href="https://icons8.ru/icon/25n4hOEoY7ss/telegram-app" width="40" height="40" style="vertical-align: middle;">
       <span style="vertical-align: middle; font-family: Arial, sans-serif; color: #000; font-size: 18px;">@lisisian</span>
    </a>
-
-   <a href="https://www.instagram.com/lisisian_" style="text-decoration: none; display: inline-block;">
-      <img href="https://icons8.ru/icon/48839/instagram"  width="40" height="40" style="vertical-align: middle;">
-      <span style="vertical-align: middle; font-family: Arial, sans-serif; color: #000; font-size: 18px;">lisisian_</span>
-   </a>
 </p>
 
+<p align="left" style="font-size: 18px;">
+  <a href="https://www.instagram.com/lisisian_" style="text-decoration: none; display: inline-block;">
+    <img href="https://icons8.ru/icon/48839/instagram"  width="40" height="40" style="vertical-align: middle;">
+    <span style="vertical-align: middle; font-family: Arial, sans-serif; color: #000; font-size: 18px;">lisisian_</span>
+ </a>
+</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
