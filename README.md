@@ -27,6 +27,24 @@
 <!--   /> -->
 <!-- </picture> -->
 
+## 💬 Socials
+
+<p align="left">
+  <table>
+      <tr>
+      <td>
+        <a href="https://t.me/lisisian">
+          <img align="center" src="./img/telegram.png">
+        </a>
+      </td>
+      <td style="font-size: 24px; vertical-align: top;">
+        @lisisian
+      </td>
+    </tr>
+  </table>
+</p>
+
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </p>
