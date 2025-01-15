@@ -31,14 +31,14 @@
 
 <p align="left" style="font-size: 18px;">
    <a href="https://t.me/lisisian" style="text-decoration: none; display: inline-block; margin-right: 15px;">
-      <img src="./src/icons8-instagram.svg" width="40" height="40" style="vertical-align: middle;">
+      <img src="./src/icons8-телеграмма-app.svg"  width="40" height="40" style="vertical-align: center;">
       <span style="vertical-align: middle; font-family: Arial, sans-serif; color: #000; font-size: 18px;">@lisisian</span>
    </a>
 </p>
 
 <p align="left" style="font-size: 18px;">
   <a href="https://www.instagram.com/lisisian_" style="text-decoration: none; display: inline-block;">
-    <img src="./src/icons8-телеграмма-app.svg"  width="40" height="40" style="vertical-align: middle;">
+    <img  src="./src/icons8-instagram.svg" width="40" height="40" style="vertical-align: center;">
     <span style="vertical-align: middle; font-family: Arial, sans-serif; color: #000; font-size: 18px;">lisisian_</span>
  </a>
 </p>
