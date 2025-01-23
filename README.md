@@ -29,7 +29,7 @@
 
 ## 💬 Socials
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <a href="https://t.me/lisisian" style="text-decoration: none;">
