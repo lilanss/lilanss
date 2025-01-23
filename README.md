@@ -29,20 +29,20 @@
 
 ## 💬 Socials
 
-<table style="border-collapse: separate; border-spacing: 0; border: 2px solid #f9c5d1; border-radius: 10px; background-color: #ffe4e9; width: 100%; padding: 10px;">
+<table>
   <tr>
-    <td align="center" style="border: 1px solid #f9c5d1; border-radius: 10px; padding: 15px;">
+    <td align="center">
       <a href="https://t.me/lisisian" style="text-decoration: none;">
         <img src="./src/icons8-телеграмма-app.svg" width="40" height="40" alt="Telegram">
         <br>
-        <span style="font-family: Arial, sans-serif; color: #e91e63; font-size: 18px; font-weight: bold;">@lisisian</span>
+        <span style="font-family: Arial, sans-serif; color: #000; font-size: 18px;">@lisisian</span>
       </a>
     </td>
-    <td align="center" style="border: 1px solid #f9c5d1; border-radius: 10px; padding: 15px;">
+    <td align="center">
       <a href="https://www.instagram.com/lisisian_" style="text-decoration: none;">
         <img src="./src/icons8-instagram.svg" width="40" height="40" alt="Instagram">
         <br>
-        <span style="font-family: Arial, sans-serif; color: #e91e63; font-size: 18px; font-weight: bold;">lisisian_</span>
+        <span style="font-family: Arial, sans-serif; color: #000; font-size: 18px;">lisisian_</span>
       </a>
     </td>
   </tr>
