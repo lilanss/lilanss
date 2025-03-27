@@ -33,7 +33,7 @@
   <img src="https://github.com/devicons/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/icons/mocha/mocha-original.svg" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/icons/python/python-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
 
