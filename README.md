@@ -1,6 +1,3 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
-
-
 <!-- <div align="center">
 <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
 </div> -->
@@ -9,17 +6,10 @@
 <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div> -->
 
-<p align="center">
-  <a href="https://count.getloli.com" target="_blank">
-    <img alt="Moe Counter!" src="https://count.getloli.com/@:lisisisan?name=%3Alisisisan&theme=random&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
-  </a>
-</p>
-
 <!-- <br><br>
   <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 <br><br> -->
 
----
 ## ℹ︎ About Me
 I am a Dart/Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I work as a software engineer to create web applications.
@@ -28,8 +18,6 @@ I am a Dart/Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 - :zap: In my free time, I solve problems on LeetCode and read technical articles.
 
-
----
 
 ## ⚒️ Languages and Tools 
 
@@ -49,17 +37,24 @@ I am a Dart/Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
----
 
 ## 📈 My Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisisisan&layout=compact&bg_color=FFE6EE&hide_border=true&height=200" />
+  <p align="center">
+    <a href="https://count.getloli.com" target="_blank">
+      <img alt="Moe Counter!" src="https://count.getloli.com/@:lisisisan?name=%3Alisisisan&theme=random&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+    </a>
+  </p>
+
 </p>
 
----
 
 ## 💬 Socials
+
+<!-- лепестки -->
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
 <table align="center">
   <tr>
