@@ -22,7 +22,8 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## ⚒️ Languages and Tools 
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
@@ -39,6 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
 ## 💬 Socials
 
