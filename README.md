@@ -51,6 +51,13 @@ I am a Dart/Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ---
 
+## 📈 My Stats 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lisisisan&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+---
+
 ## 💬 Socials
 
 <table align="center">
