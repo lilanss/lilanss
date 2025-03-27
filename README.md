@@ -53,9 +53,9 @@ I am a Dart/Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ## 📈 My Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisisisan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisisisan&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark&background=000000)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisisisan)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisisisan)](https://github.com/anuraghazra/github-readme-stats&theme=dark&background=000000)
 
 ---
 
