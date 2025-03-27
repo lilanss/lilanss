@@ -19,20 +19,23 @@
   <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 <br><br>
 
-<!--  <picture> -->
-<!--   <source -->
-<!--     media="(prefers-color-scheme: dark)" -->
-<!--     srcset="https://raw.githubusercontent.com/lisisisan/lisisisan/refs/heads/output/github-contribution-grid-snake-dark.svg" -->
-<!--   /> -->
-<!--   <source -->
-<!--     media="(prefers-color-scheme: light)" -->
-<!--     srcset="https://raw.githubusercontent.com/lisisisan/lisisisan/refs/heads/output/github-contribution-grid-snake.svg" -->
-<!--   /> -->
-<!--   <img -->
-<!--     alt="github contribution grid snake animation" -->
-<!--     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" -->
-<!--   /> -->
-<!-- </picture> -->
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/icons/firebase/firebase-line-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/icons/android/android-original.svg" title="Andriod" alt="Andriod" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/icons/swift/swift-original-wordmark.svg" title="Andriod" alt="Andriod" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/icons/mocha/mocha-original.svg" title="Mocha" alt="Mocha" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/icons/python/python-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</div>
+
 
 ## 💬 Socials
 
@@ -60,3 +63,21 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </p>
+
+
+
+
+<!--  <picture> -->
+<!--   <source -->
+<!--     media="(prefers-color-scheme: dark)" -->
+<!--     srcset="https://raw.githubusercontent.com/lisisisan/lisisisan/refs/heads/output/github-contribution-grid-snake-dark.svg" -->
+<!--   /> -->
+<!--   <source -->
+<!--     media="(prefers-color-scheme: light)" -->
+<!--     srcset="https://raw.githubusercontent.com/lisisisan/lisisisan/refs/heads/output/github-contribution-grid-snake.svg" -->
+<!--   /> -->
+<!--   <img -->
+<!--     alt="github contribution grid snake animation" -->
+<!--     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" -->
+<!--   /> -->
+<!-- </picture> -->
