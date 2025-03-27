@@ -16,13 +16,7 @@
 </p>
 
 <br><br>
-  <samp>
-    Hi there :wave:
-    <br>I'm an Android developer. 📱
-    <br><br>
-    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
-    <br><br>Code Stats :point_down: </a>
-  </samp>
+  <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 <br><br>
 
 <!--  <picture> -->
