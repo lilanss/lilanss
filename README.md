@@ -19,6 +19,15 @@
   <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
 <br><br> -->
 
+---
+## ℹ︎ About Me
+I am a Dart/Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: I work as a software engineer to create web applications.
+
+- :seedling: I'm studying writing technical content.
+
+- :zap: In my free time, I solve problems on LeetCode and read technical articles.
+
 
 ---
 
