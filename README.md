@@ -48,7 +48,6 @@ I am a Dart/Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOC
       <img alt="Moe Counter!" src="https://count.getloli.com/@:lisisisan?name=%3Alisisisan&theme=random&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
     </a>
   </p>
-
 </p>
 
 
