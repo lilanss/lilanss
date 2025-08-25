@@ -59,13 +59,13 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 <table align="center">
   <tr>
-    <td align="center">
+<!--     <td align="center">
       <a href="https://t.me/lisisian" style="text-decoration: none;">
         <img src="./src/icons8-телеграмма-app.svg" width="40" height="40" alt="Telegram">
         <br>
         <span style="font-family: Arial, sans-serif; color: #000; font-size: 18px;">@lisisian</span>
       </a>
-    </td>
+    </td> -->
     <td align="center">
       <a href="https://www.instagram.com/lisisian_" style="text-decoration: none;">
         <img src="./src/icons8-instagram.svg" width="40" height="40" alt="Instagram">
