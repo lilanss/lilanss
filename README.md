@@ -69,10 +69,10 @@ I am a Mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
       </a>
     </td> -->
     <td align="center">
-      <a href="https://www.instagram.com/lisisian_" style="text-decoration: none;">
+      <a href="https://www.instagram.com/lilansss" style="text-decoration: none;">
         <img src="./src/icons8-instagram.svg" width="40" height="40" alt="Instagram">
         <br>
-        <span style="font-family: Arial, sans-serif; color: #000; font-size: 18px;">lisisian_</span>
+        <span style="font-family: Arial, sans-serif; color: #000; font-size: 18px;">lilansss</span>
       </a>
     </td>
   </tr>
